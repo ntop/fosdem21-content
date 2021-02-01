@@ -51,7 +51,7 @@ showcase: |
 
             <tr>
               <td class="c3">&nbsp;</td>
-              <td><a href="">ntopng for Industry 4.0 and Scada<br><i>A Look into Industrial Network Protocols With ntopng</i></a></td>
+              <td><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWE0OGFkYzktZDU4Mi00ZDExLWI4YjgtODFlMzYzZjNlODJi%40thread.v2/0?context=%7b%22Tid%22%3a%22dd960e24-e3a9-4aed-b3ba-8e609f33a7dc%22%2c%22Oid%22%3a%2257b643b6-be0c-4b2a-b562-021a72f8a3e2%22%7d">Industrial Network Monitoring With ntopng<br><i>A Look into Industrial Network Protocols With ntopng</i></a></td>
               <td><a href="https://ch.linkedin.com/in/martin-scheu" class="quiet">Martin Scheu</a></td>
                 
               <td>11:40</td>
