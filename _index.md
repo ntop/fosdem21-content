@@ -30,9 +30,36 @@ showcase: |
           <tr>
             <td colspan="6"><h3>Saturday</h3></td>
           </tr>
-          
+
+            <tr>
+              <td class="c1">&nbsp;</td>
+              <td><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBkMTYxYTQtY2JjYS00ODgzLWI0OWEtYTcyODQ2YzY3N2Q2%40thread.v2/0?context=%7b%22Tid%22%3a%22dd960e24-e3a9-4aed-b3ba-8e609f33a7dc%22%2c%22Oid%22%3a%2257b643b6-be0c-4b2a-b562-021a72f8a3e2%22%7d">ntop @ FOSDEM<br><i>A Conversation with the Founder Luca Deri</i></a></td>
+              <td><a href="https://fosdem.org/2021/schedule/speaker/luca_deri/" class="quiet">Luca Deri</a></td>
+                
+              <td>10:50</td>
+              <td>11:20</td>
+            </tr>          
+
             <tr>
               <td class="c2">&nbsp;</td>
+              <td><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I1OGMwODktZDI5Zi00NzQwLTk5OWYtZmE5MWFkYzJkMWM4%40thread.v2/0?context=%7b%22Tid%22%3a%22dd960e24-e3a9-4aed-b3ba-8e609f33a7dc%22%2c%22Oid%22%3a%2257b643b6-be0c-4b2a-b562-021a72f8a3e2%22%7d">ntopng for IoT<br><i>How to Profitably Use ntopng in Smart Homes</i></a></td>
+              <td><a href="https://gr.linkedin.com/in/agotsis" class="quiet">Antonis Gotsis</a></td>
+                
+              <td>11:20</td>
+              <td>11:40</td>
+            </tr>  
+
+            <tr>
+              <td class="c3">&nbsp;</td>
+              <td><a href="">ntopng for Industry 4.0 and Scada<br><i>A Look into Industrial Network Protocols With ntopng</i></a></td>
+              <td><a href="https://ch.linkedin.com/in/martin-scheu" class="quiet">Martin Scheu</a></td>
+                
+              <td>11:40</td>
+              <td>12:00</td>
+            </tr>  
+
+            <tr>
+              <td class="c4">&nbsp;</td>
               <td><a href="https://fosdem.org/2021/schedule/event/nemondpi/">Using nDPI for Monitoring and Security<br><i>nDPI in practice</i></a></td>
               <td><a href="https://fosdem.org/2021/schedule/speaker/luca_deri/" class="quiet">Luca Deri</a></td>
                 
@@ -41,13 +68,80 @@ showcase: |
             </tr>
           
             <tr>
-              <td class="c3">&nbsp;</td>
+              <td class="c5">&nbsp;</td>
               <td><a href="https://fosdem.org/2021/schedule/event/nemontopng/">ntopng network monitoring and discovery<br><i>Network discovery with ntopng</i></a></td>
               <td><a href="https://fosdem.org/2021/schedule/speaker/matteo_biscosi/" class="quiet">Matteo Biscosi</a></td>
                 
               <td><a class="quiet value-title" title="2021-02-06T16:55:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1655">16:55</a></td>
               <td><a class="quiet value-title" title="2021-02-06T17:15:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1715">17:15</a></td>
             </tr>
+
+            <tr>
+              <td class="c6">&nbsp;</td>
+              <td><a href="https://chat.fosdem.org/#/room/#_index-stand:fosdem.org">Chat With the ntop Developers<br><i>Meet with the Community</i></a></td>
+              <td>The ntop Team</td>
+                
+              <td>12:00</td>
+              <td>16:00</td>
+            </tr>  
+
+            <tr>
+              <td class="c7">&nbsp;</td>
+              <td><a href="https://chat.fosdem.org/#/room/#_index-stand:fosdem.org">Installation Party<br><i>Tips&Tricks for best results</i></a></td>
+              <td>The ntop Team</td>
+                
+              <td>16:00</td>
+              <td>18:00</td>
+            </tr>  
+
+          <tr>
+            <td colspan="6"><h3>Sunday</h3></td>
+          </tr>
+
+            <tr>
+              <td class="c1">&nbsp;</td>
+              <td><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjE4OTdlZjctM2VkMy00OWI5LTg4YjUtN2JiOTJiNDg3YzMz%40thread.v2/0?context=%7b%22Tid%22%3a%22dd960e24-e3a9-4aed-b3ba-8e609f33a7dc%22%2c%22Oid%22%3a%2257b643b6-be0c-4b2a-b562-021a72f8a3e2%22%7d">ntopng and Cybersecurity<br><i>Sorting Out Real-World issues with ntopng</i></a></td>
+              <td><a href="https://it.linkedin.com/in/giordano-zambelli-a46b673" class="quiet">Giordano Zambelli</a></td>
+                
+              <td>12:00</td>
+              <td>12:30</td>
+            </tr>          
+
+            <tr>
+              <td class="c2">&nbsp;</td>
+              <td><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWI5OTAyODMtNWU3NC00M2Q4LWJhMjgtNDViMWU0NDk2Nzlj%40thread.v2/0?context=%7b%22Tid%22%3a%22dd960e24-e3a9-4aed-b3ba-8e609f33a7dc%22%2c%22Oid%22%3a%2257b643b6-be0c-4b2a-b562-021a72f8a3e2%22%7d">ntopng Network Monitoring and Discovery<br><i>A Follow-Up with Live Demo and Examples</i></a></td>
+              <td><a href="https://fosdem.org/2021/schedule/speaker/matteo_biscosi/" class="quiet">Matteo Biscosi</a></td>
+                
+              <td>14:00</td>
+              <td>14:30</td>
+            </tr>
+
+            <tr>
+              <td class="c3">&nbsp;</td>
+              <td><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTc0ZDg0NmUtZjJiNS00YTVhLTlkY2UtOGNjNGVkMzRlZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%22dd960e24-e3a9-4aed-b3ba-8e609f33a7dc%22%2c%22Oid%22%3a%2257b643b6-be0c-4b2a-b562-021a72f8a3e2%22%7d">ntopng Flexible Alerts: Endpoints and Recipients<br><i>How to Deliver ntopng Alerts to Downstream Recipients</i></a></td>
+              <td><a href="https://fosdem.org/2021/schedule/speaker/matteo_biscosi/" class="quiet">Matteo Biscosi</a></td>
+                
+              <td>14:30</td>
+              <td>15:00</td>
+            </tr>
+
+            <tr>
+              <td class="c4">&nbsp;</td>
+              <td><a href="https://chat.fosdem.org/#/room/#_index-stand:fosdem.org">Round Table and Discussion<br><i> With the ntop Founder Luca deri and His Team</i></a></td>
+              <td>The ntop Team</td>
+                
+              <td>16:00</td>
+              <td>17:00</td>
+            </tr>  
+
+            <tr>
+              <td class="c5">&nbsp;</td>
+              <td><a href="https://chat.fosdem.org/#/room/#_index-stand:fosdem.org">Installation Party<br><i>Tips&Tricks for Best Results</i></a></td>
+              <td>The ntop Team</td>
+                
+              <td>17:00</td>
+              <td>18:00</td>
+            </tr>  
     </tbody>
   </table>
 
