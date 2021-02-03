@@ -172,6 +172,5 @@ new_this_year: |
   <p>For this year, we expect ntopng to keep growing and becoming more open to other opensource projects. Strong focus will be kept on the security aspects of network monitoring, including behavioral and encrypted traffic analyses. Finally, small agents are being built under the hood to be used in combination with ntopng and to leverage its intelligence to block suspicious traffic and prevent malicious activities to disrupt the whole network.</p>
 
 layout: stand
+chatroom: ntop
 ---
-Welcome to the MariaDB Foundation stand!
-
