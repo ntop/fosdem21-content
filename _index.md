@@ -43,7 +43,7 @@ showcase: |
         
           <tr>
             <td class="c4">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_luca_deri/">ntop @ FOSDEM<br><i>A Conversation with the Founder Luca Deri</i></a></td>
+            <td><a href="https://fosdem.org/2021/schedule/event/ntop_luca_deri/">ntop @ FOSDEM<br><i>Ongoing developments and future directions</i></a></td>
             <td><a href="https://fosdem.org/2021/schedule/speaker/luca_deri/" class="quiet">Luca Deri</a></td>
               
             <td><a class="quiet value-title" title="2021-02-06T10:50:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1050">10:50</a></td>
