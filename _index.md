@@ -67,6 +67,24 @@ showcase: |
             <td><a class="quiet value-title" title="2021-02-06T11:40:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1140">11:40</a></td>
             <td><a class="quiet value-title" title="2021-02-06T12:00:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1200">12:00</a></td>
           </tr>
+
+           <tr>
+              <td class="c4">&nbsp;</td>
+              <td><a href="https://fosdem.org/2021/schedule/event/nemondpi/">Using nDPI for Monitoring and Security<br><i>nDPI in practice</i></a></td>
+              <td><a href="https://fosdem.org/2021/schedule/speaker/luca_deri/" class="quiet">Luca Deri</a></td>
+                
+              <td><a class="quiet value-title" title="2021-02-06T16:20:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1620">16:20</a></td>
+              <td><a class="quiet value-title" title="2021-02-06T16:55:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1655">16:55</a></td>
+            </tr>
+          
+            <tr>
+              <td class="c5">&nbsp;</td>
+              <td><a href="https://fosdem.org/2021/schedule/event/nemontopng/">ntopng network monitoring and discovery<br><i>Network discovery with ntopng</i></a></td>
+              <td><a href="https://fosdem.org/2021/schedule/speaker/matteo_biscosi/" class="quiet">Matteo Biscosi</a></td>
+                
+              <td><a class="quiet value-title" title="2021-02-06T16:55:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1655">16:55</a></td>
+              <td><a class="quiet value-title" title="2021-02-06T17:15:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1715">17:15</a></td>
+            </tr>
         
           <tr>
             <td class="c7">&nbsp;</td>
