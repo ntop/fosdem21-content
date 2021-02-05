@@ -7,14 +7,22 @@ layout: single
 <div class="row mt-4">
   <div class="col-sm-8">
     <div class="container mx-lg-n3">
+      <h2>nDPI - Deep Network Traffic Inspection</h2>
+
+      <p>
+        nDPI is an open source LGPLv3 library for deep-packet inspection. Based on OpenDPI it includes ntop extensions.
+      </p>
 
       <p>
         nDPI is a ntop-maintained superset of the popular OpenDPI library. Released under the LGPL license, its goal is to extend the original library by adding new protocols that are otherwise available only on the paid version of OpenDPI. In addition to Unix platforms, we also support Windows, in order to provide you a cross-platform DPI experience. Furthermore, we have modified nDPI to be more suitable for traffic monitoring applications, by disabling specific features that slow down the DPI engine while being them un-necessary for network traffic monitoring.
       </p>
 
-      <p>
-        nDPI is used by both ntop and nProbe for adding application-layer detection of protocols, regardless of the port being used. This means that it is possible to both detect known protocols on non-standard ports (e.g. detect http on ports other than 80), and also the opposite (e.g. detect Skype traffic on port 80). This is because nowadays the concept of port=application no longer holds.
-      </p>
+
+      <ul class="">
+          <li class=""><a href="https://github.com/ntop/nDPI/">GitHub nDPI project page</a></li>
+          <li class=""><a href="https://www.ntop.org/products/deep-packet-inspection/ndpi/">ntop.org nDPI project page</a></li>
+        </ul>
+
 
       <div class="row">
         <div class="col">
@@ -22,17 +30,29 @@ layout: single
         </div>
       </div>
       <p>
-        TBD
+        You can read  about how nDPI is used from one of the resources below:
+        <ul>
+          <li><a rel="noreferrer noopener" aria-label="Introducing nDPI Risk Analysis for (Cybersecurity) Network Traffic Analysis (was Ripple20)" href="https://www.ntop.org/ndpi/introducing-ndpi-risk-analysis-for-cybersecurity-network-traffic-analysis-was-ripple20/" target="_blank">Introducing nDPI Risk Analysis for (Cybersecurity) Network Traffic Analysis (was Ripple20)</a></li>
+          <li><a rel="noreferrer noopener" aria-label="How to Detect Domain Hiding (a.k.a. as Domain Fronting)" href="https://www.ntop.org/ndpi/how-to-detect-domain-hiding-a-k-a-as-domain-fronting/" target="_blank">How to Detect Domain Hiding (a.k.a. as Domain Fronting)</a></li>
+          <li><a rel="noreferrer noopener" aria-label="Monitoring Industrial IoT/Scada Traffic with nDPI and ntopng" href="https://www.ntop.org/ndpi/monitoring-industrial-iot-scada-traffic-with-ndpi-and-ntopng/" target="_blank">Monitoring Industrial IoT/Scada Traffic with nDPI and ntopng</a></li>
+        </ul>
       </p>
 
       <div class="row">
         <div class="col">
           <h2>Documentation</h2>
+          <p>
+            Use the <a href="https://github.com/ntop/nDPI/">GitHub nDPI project page</a> to download nDPI source code and start playing with it. 
+          </p>
+      <p>
+        You may also be interested in one of the following topics:
+        <ul>
+          <li><a rel="noreferrer noopener" aria-label="Integrating nDPI in a C program" href="https://github.com/ntop/nDPI/blob/dev/example/ndpiSimpleIntegration.c" target="_blank">Integrating nDPI in a C program</a></li>
+          <li><a rel="noreferrer noopener" aria-label="How To Add A New Protocol Dissector" href="https://github.com/ntop/nDPI#how-to-add-a-new-protocol-dissector" target="_blank">How To Add A New Protocol Dissector</a></li>
+        </ul>
+      </p>
         </div>
       </div>
-      <p>
-        TBD
-      </p>
 
       <div class="row">
         <div class="col">
@@ -40,7 +60,7 @@ layout: single
         </div>
       </div>
       <p>
-        To report bugs you can use the official <a href="https://github.com/ntop/nDPI/issues">GitHub nDPI issues page</a>. To say in touch with the community and the developers, you can <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a>.
+        To report bugs you can use the official <a href="https://github.com/ntop/nDPI/issues">GitHub nDPI issues page</a>. To say in touch with the community and the developers, you can <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a> or the <a href="https://chat.fosdem.org/#/room/#_index-stand:fosdem.org">FOSDEM21 chatroom</a>.
       </p>
    </div>
   </div>

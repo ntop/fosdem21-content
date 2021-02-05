@@ -162,7 +162,7 @@ showcase: |
 
   <h2>We are with the Community</h2>
   <p>
-    We believe in the community as the driving force of our activitie. We want to improve ourselves and we aspire to enhance your experience with ntop opensource software. One of our main objectives is to listen to our community and work with our developers and users alike to provide high quality functionalities to our software. To say in touch with the community and the developers, you can <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a>.
+    We believe in the community as the driving force of our activitie. We want to improve ourselves and we aspire to enhance your experience with ntop opensource software. One of our main objectives is to listen to our community and work with our developers and users alike to provide high quality functionalities to our software. To say in touch with the community and the developers, you can <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a> or the <a href="https://chat.fosdem.org/#/room/#_index-stand:fosdem.org">FOSDEM21 chatroom</a>.
   </p>
 
   <h2>ntop and Non-Profit</h2>
@@ -174,17 +174,6 @@ showcase: |
     So if you qualify, we can offer our software products for free, and ask our partners who manufacture hardware-based products to provide you a discount. In the latter case please mail us, and explain why you qualify for free licenses.
   </p>
 
-new_this_year: |
-  <p>Since our last FOSDEM, ntopng has evolved along key dimensions:</p>
-  <ul>
-  <li><b>Input data</b>. ntopng features the ability to receive and combine data from multiple, heterogeneous sources. These sources include, but are not limited to, raw traffic data, NetFlow and sFlow, firewalls and intrusion detection and prevention systems such as Suricata.</li>
-  <li><b>Output data</b>. Insights and intelligence data can be delivered to multiple downstream recipients, including big-data stores (Elasticsearch), messaging systems (Discord, Slack), email, and more.</li>
-  <li><b>External consumers.</b> A simple REST API exposes data to external consumers. This has paved the way for the integration with Check MK, another popular opensource monitoring tool.</li>
-  <li><b>Extensibility</b>. Developers and community contributors can extend ntopng functionalities by means of simple Lua scripts, that gets executed by ntopng.</li>
-  <li><b>Encrypted traffic analysis</b>. Encrypted TLS traffic is performed to provide insights into the nature and security of monitored encrypted communications.</li>
-  <li><b>Behavior analyses</b>. Heuristics aim at detecting changes in normal and periodic traffic to detect new and possibly suspicious host behaviors.</li>
-  </ul>
-  <p>For this year, we expect ntopng to keep growing and becoming more open to other opensource projects. Strong focus will be kept on the security aspects of network monitoring, including behavioral and encrypted traffic analyses. Finally, small agents are being built under the hood to be used in combination with ntopng and to leverage its intelligence to block suspicious traffic and prevent malicious activities to disrupt the whole network.</p>
 
 layout: stand
 chatroom: ntop
