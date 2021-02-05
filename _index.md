@@ -19,6 +19,8 @@ description: |
 
 showcase: |
   <link type=text/css rel="stylesheet" href="/stands/ntop/style.css">
+  <link type=text/css rel="stylesheet" href="https://stands.fosdem.org/css/fosdem.css">
+
 
   <p>
     We believe FOSDEM is a unique event, definitely the most important in Europe, when it comes to opensource software. We have already presented and showcased our open-source projects during past FOSDEM events, with very positive feedback. As ntop benefits daily from the opensource community and software, we believe FOSDEM is also an invaluable opportunity to give back to the community a part of what ntop develops.
