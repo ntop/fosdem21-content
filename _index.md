@@ -14,7 +14,26 @@ showcase: |
     We believe FOSDEM is a unique event, definitely the most important in Europe, when it comes to opensource software. We have already presented and showcased our open-source projects during past FOSDEM events, with very positive feedback. As ntop benefits daily from the opensource community and software, we believe FOSDEM is also an invaluable opportunity to give back to the community a part of what ntop develops.
   </p>
 
-  <h2>Schedule</h2>
+
+  <h2>Join the Events</h2>
+  <div class="row">
+    <div class="col col-sm-2">
+        <img class="alignnone size-full wp-image-480" src="/stands/ntop/chat.gif" alt="" width="150" /></h5>
+    </div>
+    <div class="col">
+      <p>
+      Check the schedule below to join the events.
+      <ul>
+        <li>Enter our <a href="https://chat.fosdem.org/#/room/#_index-stand:fosdem.org">FOSDEM21 chatroom</a> to discuss with us at any time during FOSDEM12.</li>
+        <li>Some events are streamed. To join the live stream, enter the event page from the schedule below and look for the link <i>"Live stream"</i>.</li>
+        <li>You can also <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a>.</li>
+      </ul> 
+    </div>
+      </p>
+  </div>
+
+
+  <h2>Events Schedule</h2>
 
   <table class="table table-striped table-bordered table-condensed">
     <thead>
@@ -171,7 +190,7 @@ showcase: |
   </p>
 
   <p>
-    So if you qualify, we can offer our software products for free, and ask our partners who manufacture hardware-based products to provide you a discount. In the latter case please mail us, and explain why you qualify for free licenses.
+    So if you qualify, we will offer our software products for free, and ask our partners who manufacture hardware-based products to provide you a discount. In the latter case please mail us, and explain why you qualify for free licenses.
   </p>
 
 
