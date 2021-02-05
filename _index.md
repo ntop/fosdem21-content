@@ -24,7 +24,6 @@ showcase: |
     We believe FOSDEM is a unique event, definitely the most important in Europe, when it comes to opensource software. We have already presented and showcased our open-source projects during past FOSDEM events, with very positive feedback. As ntop benefits daily from the opensource community and software, we believe FOSDEM is also an invaluable opportunity to give back to the community a part of what ntop develops.
   </p>
 
-
   <h2>Join the Events</h2>
   <div class="row">
     <div class="col col-sm-2">
@@ -188,6 +187,29 @@ showcase: |
     
     </tbody>
   </table>
+
+  <h2>We are Opensource</h2>
+  <div class="row">
+    <div class="col">
+      <p>
+        <a href="https://www.youtube.com/watch?v=DWUvpMt31Uw">In this video</a> interview, taken for FOSDEM21, ntop team members explain what is the phylosophy behind ntop and what it means to be opensource.
+      </p>
+  <!--      
+      <p>
+      <video id="vid1" width="700" controls="controls" preload="metadata">
+        <source src="https://video.fosdem.org/2021/stands/ntop/ntop_video1.mp4" type="video/mp4"/>
+        <source src="https://video.fosdem.org/2021/stands/ntop/ntop_video1.webm"/>
+      </video>
+      <script>
+       document.getElementById('vid1').addEventListener('loadedmetadata', function() {
+        this.currentTime = 12;
+      }, false);
+     </script> 
+      </p>
+  -->      
+    </div>
+  </div>
+
 
   <h2>We are with the Community</h2>
   <p>
