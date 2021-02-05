@@ -5,7 +5,17 @@ themes:
 website: https://ntop.org/
 logo: stands/ntop/logo.png
 description: |
-  ntop started as an opensource project in 1998 whose goal was to create a simple yet effective web-based traffic monitoring platform. Many things have changed since then, including the nature of the traffic being analyzed, operating systems being run, and the way users interact with technologies. During this time, ntop has evolved into a fully-fledged research company with many opensource projects whose main spirit is still the original one, namely, innovate network monitoring using commodity hardware and freely available operating systems.
+
+  <div class="row">
+    <div class="col">
+      <p>
+        ntop started as an opensource project in 1998 whose goal was to create a simple yet effective web-based traffic monitoring platform. Many things have changed since then, including the nature of the traffic being analyzed, operating systems being run, and the way users interact with technologies. During this time, ntop has evolved into a fully-fledged research company with many opensource projects whose main spirit is still the original one, namely, innovate network monitoring using commodity hardware and freely available operating systems.
+      </p>
+    </div>
+    <div class="col col-sm-2">
+        <img class="alignnone size-full wp-image-480" src="/stands/ntop/logo.png" alt="" width="150" /></h5>
+    </div>
+  </div>
 
 showcase: |
   <link type=text/css rel="stylesheet" href="/stands/ntop/style.css">
@@ -28,8 +38,8 @@ showcase: |
         <li>Some events are streamed. To join the live stream, enter the event page from the schedule below and look for the link <i>"Live stream"</i>.</li>
         <li>You can also <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a>.</li>
       </ul> 
-    </div>
       </p>
+    </div>
   </div>
 
 
