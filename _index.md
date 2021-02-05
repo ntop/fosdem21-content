@@ -24,7 +24,7 @@ showcase: |
       <p>
       Check the schedule below to join the events.
       <ul>
-        <li>Enter our <a href="https://chat.fosdem.org/#/room/#_index-stand:fosdem.org">FOSDEM21 chatroom</a> to discuss with us at any time during FOSDEM12.</li>
+        <li>Enter our <a href="https://matrix.to/#/#ntop-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">FOSDEM21 chatroom</a> to discuss with us at any time during FOSDEM12.</li>
         <li>Some events are streamed. To join the live stream, enter the event page from the schedule below and look for the link <i>"Live stream"</i>.</li>
         <li>You can also <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a>.</li>
       </ul> 
@@ -181,7 +181,7 @@ showcase: |
 
   <h2>We are with the Community</h2>
   <p>
-    We believe in the community as the driving force of our activitie. We want to improve ourselves and we aspire to enhance your experience with ntop opensource software. One of our main objectives is to listen to our community and work with our developers and users alike to provide high quality functionalities to our software. To say in touch with the community and the developers, you can <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a> or the <a href="https://chat.fosdem.org/#/room/#_index-stand:fosdem.org">FOSDEM21 chatroom</a>.
+    We believe in the community as the driving force of our activitie. We want to improve ourselves and we aspire to enhance your experience with ntop opensource software. One of our main objectives is to listen to our community and work with our developers and users alike to provide high quality functionalities to our software. To say in touch with the community and the developers, you can <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a> or the <a href="https://matrix.to/#/#ntop-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">FOSDEM21 chatroom</a>.
   </p>
 
   <h2>ntop and Non-Profit</h2>
