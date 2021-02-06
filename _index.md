@@ -194,13 +194,12 @@ showcase: |
   <div class="row">
     <div class="col">
       <p>
-        <a href="https://www.youtube.com/watch?v=DWUvpMt31Uw">In this video</a> interview, taken for FOSDEM21, ntop team members explain what is the phylosophy behind ntop and what it means to be opensource.
+        In this video interview, taken for FOSDEM21, ntop team members explain what is the phylosophy behind ntop and what it means to be opensource.
       </p>
-  <!--      
       <p>
       <video id="vid1" width="700" controls="controls" preload="metadata">
-        <source src="https://video.fosdem.org/2021/stands/ntop/ntop_video1.mp4" type="video/mp4"/>
-        <source src="https://video.fosdem.org/2021/stands/ntop/ntop_video1.webm"/>
+        <source src="https://video.fosdem.org/2021/stands/ntop/ntop_video1.mp4" type="video/mp4" />
+        <source src="https://video.fosdem.org/2021/stands/ntop/ntop_video1.webm" type="video/webm" />
       </video>
       <script>
        document.getElementById('vid1').addEventListener('loadedmetadata', function() {
@@ -208,7 +207,6 @@ showcase: |
       }, false);
      </script> 
       </p>
-  -->      
     </div>
   </div>
 
