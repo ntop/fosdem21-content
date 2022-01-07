@@ -35,7 +35,7 @@ showcase: |
       <p>
       Check the schedule below to join the events.
       <ul>
-        <li>Enter our <a href="https://matrix.to/#/#ntop-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">FOSDEM21 chatroom</a> to discuss with us at any time during FOSDEM12.</li>
+        <li>Enter our <a href="https://matrix.to/#/#ntop-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">FOSDEM22 chatroom</a> to discuss with us at any time during FOSDEM22.</li>
         <li>Some events are streamed. To join the live stream, enter the event page from the schedule below and look for the link <i>"Live stream"</i>.</li>
         <li>You can also <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a>.</li>
       </ul> 
@@ -64,74 +64,40 @@ showcase: |
         
           <tr>
             <td class="c3">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_welcome/">Welcome to the stand for ntop</a></td>
+            <td><a href="https://fosdem.org/2022/schedule/event/ntop_welcome/">Welcome to the stand for ntop</a></td>
             <td></td>
               
-            <td><a class="quiet value-title" title="2021-02-06T09:30:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#0930">09:30</a></td>
-            <td><a class="quiet value-title" title="2021-02-06T10:00:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1000">10:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T09:30:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#0930">09:30</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T10:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1000">10:00</a></td>
           </tr>
         
+          <!--
           <tr>
             <td class="c4">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_luca_deri/">ntop @ FOSDEM<br><i>Ongoing developments and future directions</i></a></td>
-            <td><a href="https://fosdem.org/2021/schedule/speaker/luca_deri/" class="quiet">Luca Deri</a></td>
+            <td><a href="https://fosdem.org/2022/schedule/event/ntop_luca_deri/">ntop @ FOSDEM<br><i>Ongoing developments and future directions</i></a></td>
+            <td><a href="https://fosdem.org/2022/schedule/speaker/luca_deri/" class="quiet">Luca Deri</a></td>
               
-            <td><a class="quiet value-title" title="2021-02-06T10:50:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1050">10:50</a></td>
-            <td><a class="quiet value-title" title="2021-02-06T11:20:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1120">11:20</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T10:50:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1050">10:50</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T11:20:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1120">11:20</a></td>
           </tr>
-        
-          <tr>
-            <td class="c5">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_iot/">ntopng for IoT<br><i>How to Profitably Use ntopng in Smart Homes</i></a></td>
-            <td><a href="https://fosdem.org/2021/schedule/speaker/antonis_gotsis/" class="quiet">Antonis Gotsis</a></td>
-              
-            <td><a class="quiet value-title" title="2021-02-06T11:20:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1120">11:20</a></td>
-            <td><a class="quiet value-title" title="2021-02-06T11:40:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1140">11:40</a></td>
-          </tr>
-        
-          <tr>
-            <td class="c6">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_industrial_network_monitoring/">Industrial Network Monitoring With ntopng<br><i>A Look into Industrial Network Protocols With ntopng</i></a></td>
-            <td><a href="https://fosdem.org/2021/schedule/speaker/martin_scheu/" class="quiet">Martin Scheu</a></td>
-              
-            <td><a class="quiet value-title" title="2021-02-06T11:40:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1140">11:40</a></td>
-            <td><a class="quiet value-title" title="2021-02-06T12:00:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1200">12:00</a></td>
-          </tr>
+          -->
 
-           <tr>
-              <td class="c4">&nbsp;</td>
-              <td><a href="https://fosdem.org/2021/schedule/event/nemondpi/">Using nDPI for Monitoring and Security<br><i>nDPI in practice</i></a></td>
-              <td><a href="https://fosdem.org/2021/schedule/speaker/luca_deri/" class="quiet">Luca Deri</a></td>
-                
-              <td><a class="quiet value-title" title="2021-02-06T16:20:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1620">16:20</a></td>
-              <td><a class="quiet value-title" title="2021-02-06T16:55:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1655">16:55</a></td>
-            </tr>
-          
-            <tr>
-              <td class="c5">&nbsp;</td>
-              <td><a href="https://fosdem.org/2021/schedule/event/nemontopng/">ntopng network monitoring and discovery<br><i>Network discovery with ntopng</i></a></td>
-              <td><a href="https://fosdem.org/2021/schedule/speaker/matteo_biscosi/" class="quiet">Matteo Biscosi</a></td>
-                
-              <td><a class="quiet value-title" title="2021-02-06T16:55:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1655">16:55</a></td>
-              <td><a class="quiet value-title" title="2021-02-06T17:15:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1715">17:15</a></td>
-            </tr>
-        
           <tr>
             <td class="c7">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_dev_chat_sat2/">Chat With the ntop Developers<br><i>Meet with the Community</i></a></td>
+            <td><a href="https://fosdem.org/2022/schedule/event/ntop_dev_chat_sat2/">Chat With the ntop Developers<br><i>Meet with the Community</i></a></td>
             <td></td>
               
-            <td><a class="quiet value-title" title="2021-02-06T14:00:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1400">14:00</a></td>
-            <td><a class="quiet value-title" title="2021-02-06T16:00:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1600">16:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T14:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1400">14:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T16:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1600">16:00</a></td>
           </tr>
         
           <tr>
             <td class="c8">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_installation_party_sat/">Installation Party<br><i>Tips&amp;Tricks for best results</i></a></td>
+            <td><a href="https://fosdem.org/2022/schedule/event/ntop_installation_party_sat/">Installation Party<br><i>Tips&amp;Tricks for best results</i></a></td>
             <td></td>
               
-            <td><a class="quiet value-title" title="2021-02-06T16:00:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1600">16:00</a></td>
-            <td><a class="quiet value-title" title="2021-02-06T18:00:00+01:00" href="https://fosdem.org/2021/schedule/day/saturday/#1800">18:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T16:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1600">16:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T18:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1800">18:00</a></td>
           </tr>
         
       
@@ -139,53 +105,37 @@ showcase: |
         <tr>
           <td colspan="6"><h3>Sunday</h3></td>
         </tr>
-        
+
+          <!--        
           <tr>
             <td class="c9">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_cybersecurity/">ntopng and Cybersecurity<br><i>Sorting Out Real-World issues with ntopng</i></a></td>
-            <td><a href="https://fosdem.org/2021/schedule/speaker/giordano_zambelli/" class="quiet">Giordano Zambelli</a></td>
+            <td><a href="https://fosdem.org/2022/schedule/event/ntop_cybersecurity/">ntopng and Cybersecurity<br><i>Sorting Out Real-World issues with ntopng</i></a></td>
+            <td><a href="https://fosdem.org/2022/schedule/speaker/giordano_zambelli/" class="quiet">Giordano Zambelli</a></td>
               
-            <td><a class="quiet value-title" title="2021-02-07T12:00:00+01:00" href="https://fosdem.org/2021/schedule/day/sunday/#1200">12:00</a></td>
-            <td><a class="quiet value-title" title="2021-02-07T12:30:00+01:00" href="https://fosdem.org/2021/schedule/day/sunday/#1230">12:30</a></td>
+            <td><a class="quiet value-title" title="2022-02-06T12:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1200">12:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-06T12:30:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1230">12:30</a></td>
           </tr>
-        
-          <tr>
-            <td class="c10">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_network_monitoring/">ntopng Network Monitoring and Discovery<br><i>A Follow-Up with Live Demo and Examples</i></a></td>
-            <td><a href="https://fosdem.org/2021/schedule/speaker/matteo_biscosi/" class="quiet">Matteo Biscosi</a></td>
-              
-            <td><a class="quiet value-title" title="2021-02-07T14:00:00+01:00" href="https://fosdem.org/2021/schedule/day/sunday/#1400">14:00</a></td>
-            <td><a class="quiet value-title" title="2021-02-07T14:30:00+01:00" href="https://fosdem.org/2021/schedule/day/sunday/#1430">14:30</a></td>
-          </tr>
-        
-          <tr>
-            <td class="c1">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_alerts/">ntopng Flexible Alerts - Endpoints and Recipients<br><i>How to Deliver ntopng Alerts to Downstream Recipients</i></a></td>
-            <td><a href="https://fosdem.org/2021/schedule/speaker/matteo_biscosi/" class="quiet">Matteo Biscosi</a></td>
-              
-            <td><a class="quiet value-title" title="2021-02-07T14:30:00+01:00" href="https://fosdem.org/2021/schedule/day/sunday/#1430">14:30</a></td>
-            <td><a class="quiet value-title" title="2021-02-07T15:00:00+01:00" href="https://fosdem.org/2021/schedule/day/sunday/#1500">15:00</a></td>
-          </tr>
-        
+          -->        
+
+          <!--
           <tr>
             <td class="c2">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_round_table/">Round Table and Discussion<br><i>With the ntop Founder Luca deri and His Team</i></a></td>
+            <td><a href="https://fosdem.org/2022/schedule/event/ntop_round_table/">Round Table and Discussion<br><i>With the ntop Founder Luca deri and His Team</i></a></td>
             <td></td>
               
-            <td><a class="quiet value-title" title="2021-02-07T16:00:00+01:00" href="https://fosdem.org/2021/schedule/day/sunday/#1600">16:00</a></td>
-            <td><a class="quiet value-title" title="2021-02-07T17:00:00+01:00" href="https://fosdem.org/2021/schedule/day/sunday/#1700">17:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-06T16:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1600">16:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-06T17:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1700">17:00</a></td>
           </tr>
-        
+          -->
+
           <tr>
             <td class="c3">&nbsp;</td>
-            <td><a href="https://fosdem.org/2021/schedule/event/ntop_installation_party_sun/">Installation Party<br><i>Tips&amp;Tricks for Best Results</i></a></td>
+            <td><a href="https://fosdem.org/2022/schedule/event/ntop_installation_party_sun/">Installation Party<br><i>Tips&amp;Tricks for Best Results</i></a></td>
             <td></td>
               
-            <td><a class="quiet value-title" title="2021-02-07T17:00:00+01:00" href="https://fosdem.org/2021/schedule/day/sunday/#1700">17:00</a></td>
-            <td><a class="quiet value-title" title="2021-02-07T18:00:00+01:00" href="https://fosdem.org/2021/schedule/day/sunday/#1800">18:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-06T17:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1700">17:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-06T18:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1800">18:00</a></td>
           </tr>
-        
-      
     
     </tbody>
   </table>
@@ -194,12 +144,12 @@ showcase: |
   <div class="row">
     <div class="col">
       <p>
-        In this video interview, taken for FOSDEM21, ntop team members explain what is the phylosophy behind ntop and what it means to be opensource.
+        In this video interview, taken for FOSDEM22, ntop team members explain what is the phylosophy behind ntop and what it means to be opensource.
       </p>
       <p>
       <video id="vid1" width="700" controls="controls" preload="metadata">
-        <source src="https://video.fosdem.org/2021/stands/ntop/ntop_video1.mp4" type="video/mp4" />
-        <source src="https://video.fosdem.org/2021/stands/ntop/ntop_video1.webm" type="video/webm" />
+        <source src="https://video.fosdem.org/2022/stands/ntop/ntop_video1.mp4" type="video/mp4" />
+        <source src="https://video.fosdem.org/2022/stands/ntop/ntop_video1.webm" type="video/webm" />
       </video>
       <script>
        document.getElementById('vid1').addEventListener('loadedmetadata', function() {
@@ -213,7 +163,7 @@ showcase: |
 
   <h2>We are with the Community</h2>
   <p>
-    We believe in the community as the driving force of our activitie. We want to improve ourselves and we aspire to enhance your experience with ntop opensource software. One of our main objectives is to listen to our community and work with our developers and users alike to provide high quality functionalities to our software. To say in touch with the community and the developers, you can <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a> or the <a href="https://matrix.to/#/#ntop-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">FOSDEM21 chatroom</a>.
+    We believe in the community as the driving force of our activitie. We want to improve ourselves and we aspire to enhance your experience with ntop opensource software. One of our main objectives is to listen to our community and work with our developers and users alike to provide high quality functionalities to our software. To say in touch with the community and the developers, you can <a rel="noreferrer noopener" aria-label="join public ntop discussions" href="https://www.ntop.org/support/faq/howto-join-public-ntop-discussions/" target="_blank">join public ntop discussions</a> or the <a href="https://matrix.to/#/#ntop-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">FOSDEM22 chatroom</a>.
   </p>
 
   <h2>ntop and Non-Profit</h2>
