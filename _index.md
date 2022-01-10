@@ -64,49 +64,46 @@ showcase: |
         
           <tr>
             <td class="c3">&nbsp;</td>
-            <td><a href="https://fosdem.org/2022/schedule/event/ntop_welcome/">Welcome to the stand for ntop</a></td>
+            <td><a href="https://fosdem.org/2022/schedule/event/ntop_welcome/">Welcome to the ntop stand</a></td>
             <td></td>
               
             <td><a class="quiet value-title" title="2022-02-05T09:30:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#0930">09:30</a></td>
             <td><a class="quiet value-title" title="2022-02-05T10:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1000">10:00</a></td>
           </tr>
         
-          <!--
           <tr>
             <td class="c4">&nbsp;</td>
             <td><a href="https://fosdem.org/2022/schedule/event/ntop_luca_deri/">ntop @ FOSDEM<br><i>Ongoing developments and future directions</i></a></td>
             <td><a href="https://fosdem.org/2022/schedule/speaker/luca_deri/" class="quiet">Luca Deri</a></td>
               
-            <td><a class="quiet value-title" title="2022-02-05T10:50:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1050">10:50</a></td>
-            <td><a class="quiet value-title" title="2022-02-05T11:20:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1120">11:20</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T15:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1500">15:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T15:30:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1530">15:30</a></td>
           </tr>
-          -->
 
           <tr>
             <td class="c7">&nbsp;</td>
             <td><a href="https://fosdem.org/2022/schedule/event/ntop_dev_chat_sat2/">Chat With the ntop Developers<br><i>Meet with the Community</i></a></td>
             <td></td>
               
-            <td><a class="quiet value-title" title="2022-02-05T14:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1400">14:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T15:30:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1530">15:30</a></td>
             <td><a class="quiet value-title" title="2022-02-05T16:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1600">16:00</a></td>
           </tr>
-        
+       
           <tr>
             <td class="c8">&nbsp;</td>
             <td><a href="https://fosdem.org/2022/schedule/event/ntop_installation_party_sat/">Installation Party<br><i>Tips&amp;Tricks for best results</i></a></td>
             <td></td>
               
             <td><a class="quiet value-title" title="2022-02-05T16:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1600">16:00</a></td>
-            <td><a class="quiet value-title" title="2022-02-05T18:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1800">18:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T17:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1700">17:00</a></td>
           </tr>
         
-      
-    
-        <tr>
-          <td colspan="6"><h3>Sunday</h3></td>
-        </tr>
+        <!--        
 
-          <!--        
+          <tr>
+            <td colspan="6"><h3>Sunday</h3></td>
+          </tr>
+
           <tr>
             <td class="c9">&nbsp;</td>
             <td><a href="https://fosdem.org/2022/schedule/event/ntop_cybersecurity/">ntopng and Cybersecurity<br><i>Sorting Out Real-World issues with ntopng</i></a></td>
@@ -115,9 +112,7 @@ showcase: |
             <td><a class="quiet value-title" title="2022-02-06T12:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1200">12:00</a></td>
             <td><a class="quiet value-title" title="2022-02-06T12:30:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1230">12:30</a></td>
           </tr>
-          -->        
 
-          <!--
           <tr>
             <td class="c2">&nbsp;</td>
             <td><a href="https://fosdem.org/2022/schedule/event/ntop_round_table/">Round Table and Discussion<br><i>With the ntop Founder Luca deri and His Team</i></a></td>
@@ -126,7 +121,6 @@ showcase: |
             <td><a class="quiet value-title" title="2022-02-06T16:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1600">16:00</a></td>
             <td><a class="quiet value-title" title="2022-02-06T17:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1700">17:00</a></td>
           </tr>
-          -->
 
           <tr>
             <td class="c3">&nbsp;</td>
@@ -136,6 +130,8 @@ showcase: |
             <td><a class="quiet value-title" title="2022-02-06T17:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1700">17:00</a></td>
             <td><a class="quiet value-title" title="2022-02-06T18:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1800">18:00</a></td>
           </tr>
+
+          -->
     
     </tbody>
   </table>
