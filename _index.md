@@ -136,6 +136,7 @@ showcase: |
     </tbody>
   </table>
 
+  <!--
   <h2>We are Opensource</h2>
   <div class="row">
     <div class="col">
@@ -155,7 +156,7 @@ showcase: |
       </p>
     </div>
   </div>
-
+  -->
 
   <h2>We are with the Community</h2>
   <p>
