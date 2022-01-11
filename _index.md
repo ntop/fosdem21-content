@@ -89,7 +89,7 @@ showcase: |
             <td><a href="https://fosdem.org/2022/schedule/event/ntop_dev_chat_sat2/">Chat With the ntop Developers<br><i>Meet with the Community</i></a></td>
             <td></td>
               
-            <td><a class="quiet value-title" title="2022-02-05T15:30:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1530">15:30</a></td>
+            <td><a class="quiet value-title" title="2022-02-05T15:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1500">15:00</a></td>
             <td><a class="quiet value-title" title="2022-02-05T16:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1600">16:00</a></td>
           </tr>
        
@@ -112,8 +112,8 @@ showcase: |
             <td><a href="https://fosdem.org/2022/schedule/event/using_ndpi_to_efficiently_classify_network_traffic/">nDPI and Cybersecurity<br><i>Network Traffic Classification for Cybersecurity and Monitoring</i></a></td>
             <td><a href="https://fosdem.org/2022/schedule/speaker/luca_deri/" class="quiet">Luca Deri</a></td>
               
-            <td><a class="quiet value-title" title="2022-02-06T12:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1200">12:00</a></td>
-            <td><a class="quiet value-title" title="2022-02-06T12:30:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1230">12:30</a></td>
+            <td><a class="quiet value-title" title="2022-02-06T13:00:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1300">13:00</a></td>
+            <td><a class="quiet value-title" title="2022-02-06T13:30:00+01:00" href="https://fosdem.org/2022/schedule/day/sunday/#1330">13:30</a></td>
           </tr>
 
           <!--        
