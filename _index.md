@@ -75,7 +75,7 @@ showcase: |
         
           <tr>
             <td class="c4">&nbsp;</td>
-            <td><a href="https://fosdem.org/2022/schedule/event/ntop_luca_deri/">ntop @ FOSDEM<br><i>Ongoing developments and future directions</i></a></td>
+            <td><a href="https://matrix.to/#/#ntop-stand:fosdem.org">ntop @ FOSDEM<br><i>Ongoing developments and future directions</i></a></td>
             <td><a href="https://fosdem.org/2022/schedule/speaker/luca_deri/" class="quiet">Luca Deri</a></td>
               
             <td><a class="quiet value-title" title="2022-02-05T11:00:00+01:00" href="https://fosdem.org/2022/schedule/day/saturday/#1100">11:00</a></td>
